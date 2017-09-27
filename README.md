@@ -10,7 +10,7 @@ Este repositorio aloja el contenido del Tutorial JavaScript Moderno, publicado e
 
 Si quieres traducirlo a tu idioma, entonces crea una bifurcación del tutorial de inglés y sigue adelante. Puedo publicar la traducción con tus créditos en un dominio como fr. javascript. info.
 
-Utilice este repositorio para indicar problemas y sugerir mejoras para el texto.
+Esta traducción a español de España está en proceso. Se aceptan colaboraciones.
 
 ## Estructura
 

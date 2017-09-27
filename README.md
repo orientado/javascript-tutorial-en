@@ -1,29 +1,30 @@
 
 # The JavaScript Tutorial
 
-This repository hosts the content of the Modern JavaScript Tutorial, published at [https://javascript.info](https://javascript.info).
+Este repositorio aloja el contenido del Tutorial JavaScript Moderno, publicado en [https://javascript.info](https://javascript.info).
 
-## Translations
+## Traducciones
 
-- Russian: [https://github.com/iliakan/javascript-tutorial-ru](https://github.com/iliakan/javascript-tutorial-ru).
-- Chinese: the ongoing translation at [https://github.com/iliakan/javascript-tutorial-cn](https://github.com/iliakan/javascript-tutorial-cn), go ahead and join if you know Chinese.
+- Ruso: [https://github.com/iliakan/javascript-tutorial-ru](https://github.com/iliakan/javascript-tutorial-ru).
+- Chino: la traducción en curso en [https://github.com/iliakan/javascript-tutorial-cn](https://github.com/iliakan/javascript-tutorial-cn), ve y únete si sabes chino.
 
-If you'd like to translate it into your language then fork the English tutorial and go ahead. I can publish the translation with your credits on a domain like fr.javascript.info.
+Si quieres traducirlo a tu idioma, entonces crea una bifurcación del tutorial de inglés y sigue adelante. Puedo publicar la traducción con tus créditos en un dominio como fr. javascript. info.
 
-Please use this repository to file issues and suggest PRs for the text.
+Utilice este repositorio para indicar problemas y sugerir mejoras para el texto.
 
-## Structure
+## Estructura
 
-Every chapter, article or a task has its folder.
+Cada capítulo, artículo o tarea tiene su carpeta.
 
-The folder is named like `N-url`, where `N` is a number for the sorting purposes and `url` is the URL part with title of the material.
+La carpeta se nombra como `N-url`, donde `N` es un número con propósitos de ordenación y `url` es la parte URL con el título del material.
 
-The type of the material is defined by the file inside the folder:
+El tipo de material está definido por el archivo dentro de la carpeta:
 
-  - `index.md` stands for a chapter
-  - `article.md` stands for an article
-  - `task.md` stands for a task (solution must be provided in `solution.md` file aswell)
+  - `index.md` significa un capítulo
+  - `article.md` significa un artículo
+  - `task.md` significa una tarea (la solución debe proporcionarse también en el archivo `solution.md`)
 
-Each of these files starts from the `# Main header`.
+Cada uno de estos archivos comienza desde `#Cabecera Principal`.
 
-Assets required for the material reside in the same folder.
+Los activos necesarios para el material residen en la misma carpeta.
+

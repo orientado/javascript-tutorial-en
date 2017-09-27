@@ -1,16 +1,17 @@
-# An Introduction to JavaScript
+# Una introducción a JavaScript
 
-Let's see what's so special about JavaScript, what we can achieve with it and which other technologies play well with it.
+Veamos qué tiene de especial JavaScript, qué podemos lograr con él y qué otras tecnologías funcionan bien con él.
 
-## What is JavaScript?
+## ¿Qué es JavaScript?
 
-*JavaScript* was initially created to *"make webpages alive"*.
+*JavaScript* fue creado inicialmente para *"hacer que las páginas web vivan"*.
 
-The programs in this language are called *scripts*. They can be written right in the HTML and execute automatically as the page loads.
+Los programas en este idioma se llaman *scripts*. Pueden ser escritos directamente en el HTML y ejecutarse automáticamente a medida que la página se carga.
 
-Scripts are provided and executed as a plain text. They don't need a special preparation or a compilation to run.
+Los scripts se proporcionan y ejecutan como texto plano. No necesitan una preparación especial o una compilación para funcionar.
 
-In this aspect, JavaScript is very different from another language called [Java](http://en.wikipedia.org/wiki/Java).
+En este aspecto, JavaScript es muy diferente de otro lenguaje llamado[Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)).
+
 
 ```smart header="Why <u>Java</u>Script?"
 When JavaScript was created, it initially had another name: "LiveScript". But Java language was very popular at that time, so it was decided that positioning a new language as a "younger brother" of Java would help.
